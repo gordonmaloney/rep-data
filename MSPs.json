@@ -119,11 +119,11 @@
     "email": "stephanie.callaghan.msp@parliament.scot"
   },
   {
-    "name": "Donald Cameron",
+    "name": "Tim Eagle",
     "constituency": "Highlands and Islands",
     "party": "Tory",
-    "handle": "@DAJCameron",
-    "email": "donald.cameron.msp@parliament.scot"
+    "handle": "@TimEagleHI",
+    "email": "Tim.Eagle.msp@parliament.scot"
   },
   {
     "name": "Jackson Carlaw",
@@ -247,8 +247,8 @@
   {
     "name": "Fergus Ewing",
     "constituency": "Inverness and Nairn",
-    "party": "SNP",
-    "handle": "@FergusEwingSNP",
+    "party": "Independent",
+    "handle": "@VoteEwing",
     "email": "fergus.ewing.msp@parliament.scot"
   },
   {
